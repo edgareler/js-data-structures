@@ -1,0 +1,24 @@
+{
+  "name": "js-data-structures",
+  "version": "1.0.0",
+  "description": "Examples of Data Structures using JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgareler/js-data-structures.git"
+  },
+  "keywords": [
+    "javascript",
+    "data",
+    "structures"
+  ],
+  "author": "Edgar Eler <eler@edgar.systems> (http://edgar.systems)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edgareler/js-data-structures/issues"
+  },
+  "homepage": "https://github.com/edgareler/js-data-structures#readme"
+}
