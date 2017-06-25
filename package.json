@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/edgareler/js-data-structures/issues"
   },
-  "homepage": "https://github.com/edgareler/js-data-structures#readme"
+  "homepage": "https://github.com/edgareler/js-data-structures#readme",
+  "dependencies": {
+    "treeify": "^1.0.1"
+  }
 }
